@@ -51,6 +51,10 @@ cp -r highscore-essayist ~/.claude/skills/
 - 本 Skill 为写作技法抽象，不含语料原文摘抄；分数为发布者标注，非官方阅卷组发布。
 - 上海卷风格不代表全国卷要求；引证人物与名言使用时请自行核实出处。
 
+## 致谢
+
+本 Skill 的制作方法论基于 [wenfeng-skill](https://github.com/XTmingyue/wenfeng-skill)（文风.skill，MIT License © xiongtao）：按照其「文风蒸馏」工作流（阅读语料 → 提炼叙事模型/语言指纹/母题意象/创作规则 → 生成可运行 SKILL.md）从上海一二模范文语料蒸馏而成。
+
 ## License
 
 [MIT](./LICENSE)
