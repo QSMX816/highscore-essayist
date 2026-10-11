@@ -155,7 +155,7 @@ highscore-essayist 不是阅卷标准，也不保证复现阅卷现场；上海�
 
 ## 灵感来源
 
-本项目使用 [XTmingyue/wenfeng-skill](https://github.com/XTmingyue/wenfeng-skill)（文风.skill，MIT © xiongtao）的蒸馏工作流生成，页面版式亦参考该项目。
+本项目使用 [XTmingyue/wenfeng-skill](https://github.com/XTmingyue/wenfeng-skill)（文风.skill，MIT © xiongtao）的蒸馏工作流生成。
 
 ---
 
